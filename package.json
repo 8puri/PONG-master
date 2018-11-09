@@ -1,0 +1,28 @@
+{
+  "name": "PONG",
+  "version": "1.0.0",
+  "description": "Large Systems coursework experiment with Heroku",
+  "main": "foo.js",
+  "dependencies": {
+    "debug": "^2.1.3",
+    "express": "^4.9.8",
+    "redis": "^0.12.1"
+  },
+    "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acavaret/PONG.git"
+  },
+  "author": "",
+  "license": "CC",
+  "bugs": {
+    "url": "https://github.com/acavaret/PONG/issues"
+  },
+  "homepage": "https://github.com/acavaret/PONG"
+}
